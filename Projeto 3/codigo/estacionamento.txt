@@ -1,0 +1,137 @@
+Nome do Estacionamento: Estacionamento 1
+Quantidade de Fileiras: 4
+Vagas por Fileira: 2
+
+Clientes:
+Nome: Paula, ID: ID1, Modalidade: HORISTA
+Veículos do Cliente:
+
+Nome: Hamilton, ID: ID2, Modalidade: DE_TURNO
+Veículos do Cliente:
+
+Nome: Alfredo, ID: ID3, Modalidade: MENSALISTA
+Veículos do Cliente:
+
+Nome: Fabricio, ID: ID4, Modalidade: HORISTA
+Veículos do Cliente:
+
+Nome: Camilo, ID: ID5, Modalidade: HORISTA
+Veículos do Cliente:
+
+Vagas:
+ID da Vaga: V1, Disponível: Desocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+ID da Vaga: V7, Disponível: Desocupada
+ID da Vaga: V8, Disponível: Desocupada
+
+Nome do Estacionamento: Estacionamento 2
+Quantidade de Fileiras: 3
+Vagas por Fileira: 2
+
+Clientes:
+Nome: Teste, ID: ID8, Modalidade: HORISTA
+Veículos do Cliente:
+Placa: DEF-9090, custando: R$4.00
+
+Nome: Teste Junior, ID: ID9, Modalidade: HORISTA
+Veículos do Cliente:
+
+Vagas:
+ID da Vaga: V1, Disponível: Ocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+
+Nome do Estacionamento: Estacionamento 3
+Quantidade de Fileiras: 2
+Vagas por Fileira: 3
+
+Clientes:
+Nome: Maria, ID: ID10, Modalidade: MENSALISTA
+Veículos do Cliente:
+Placa: ABC-1234, custando: R$500.00
+
+Nome: João, ID: ID11, Modalidade: DE_TURNO
+Veículos do Cliente:
+Placa: XYZ-5678, custando: R$280.00
+
+Vagas:
+ID da Vaga: V1, Disponível: Desocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+
+Nome do Estacionamento: Estacionamento 4
+Quantidade de Fileiras: 5
+Vagas por Fileira: 3
+
+Clientes:
+Nome: Ana, ID: ID12, Modalidade: MENSALISTA
+Veículos do Cliente:
+Placa: JKU-4321, custando: R$500.00
+
+Nome: Carlos, ID: ID13, Modalidade: DE_TURNO
+Veículos do Cliente:
+Placa: QWE-9876, custando: R$290.00
+
+Nome: Juliana, ID: ID14, Modalidade: HORISTA
+Veículos do Cliente:
+
+Vagas:
+ID da Vaga: V1, Disponível: Desocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+ID da Vaga: V7, Disponível: Desocupada
+ID da Vaga: V8, Disponível: Desocupada
+ID da Vaga: V9, Disponível: Desocupada
+ID da Vaga: V10, Disponível: Desocupada
+
+Nome do Estacionamento: Estacionamento 5
+Quantidade de Fileiras: 2
+Vagas por Fileira: 4
+
+Clientes:
+Nome: Roberto, ID: ID15, Modalidade: HORISTA
+Veículos do Cliente:
+
+Nome: Fernanda, ID: ID16, Modalidade: MENSALISTA
+Veículos do Cliente:
+Placa: ASD-8765, custando: R$500.00
+
+Vagas:
+ID da Vaga: V1, Disponível: Desocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+ID da Vaga: V7, Disponível: Desocupada
+ID da Vaga: V8, Disponível: Desocupada
+Nome do Estacionamento: Estacionamento Teste
+Quantidade de Fileiras: 2
+Vagas por Fileira: 3
+
+Clientes:
+Nome: Paula, ID: ID1, Modalidade: HORISTA
+Veículos do Cliente:
+Placa: DEF-1234, custando: R$8.00
+
+Vagas:
+ID da Vaga: V1, Disponível: Desocupada
+ID da Vaga: V2, Disponível: Desocupada
+ID da Vaga: V3, Disponível: Desocupada
+ID da Vaga: V4, Disponível: Desocupada
+ID da Vaga: V5, Disponível: Desocupada
+ID da Vaga: V6, Disponível: Desocupada
+
