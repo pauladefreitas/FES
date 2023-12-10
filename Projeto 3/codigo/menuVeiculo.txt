@@ -1,3 +1,0 @@
-Menu do veículo.
-Estacionar veículo.
-Retirar o veículo da vaga.
